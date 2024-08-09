@@ -17,7 +17,7 @@ const navbar = () => {
     </li>
 </ul>
 
-        <ul className="flex gap-8 items-center text-base text-hitam">
+        <ul className="font-satoshi flex gap-8 items-center text-base text-hitam">
             <li className="hover:bg-gradient-to-r from-[#00AAE7] to-[#0076C0] inline-block hover:text-transparent bg-clip-text">
                 About Us
             </li>

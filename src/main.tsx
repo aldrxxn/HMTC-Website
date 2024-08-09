@@ -5,6 +5,8 @@ import Navbar from './pages/Navbar.tsx'
 import './index.css'
 import Hero from './pages/Hero.tsx'
 import AboutUs from './pages/AboutUs.tsx'
+import Transition from './pages/Transition.tsx'
+import VisionMission from './pages/VisionMission.tsx'
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
@@ -12,5 +14,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
     <App />
     <Hero/>
     <AboutUs/>
+    <Transition/>
+    <VisionMission/>
     </React.StrictMode>,
 )
