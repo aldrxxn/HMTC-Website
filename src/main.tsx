@@ -7,6 +7,7 @@ import Hero from './pages/Hero.tsx'
 import AboutUs from './pages/AboutUs.tsx'
 import Transition from './pages/Transition.tsx'
 import VisionMission from './pages/VisionMission.tsx'
+import Goal from './pages/Goal.tsx'
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
@@ -16,5 +17,6 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
     <AboutUs/>
     <Transition/>
     <VisionMission/>
+    <Goal/>
     </React.StrictMode>,
 )

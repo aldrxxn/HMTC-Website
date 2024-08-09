@@ -7,7 +7,7 @@ const VisionMission = () => {
                 {/* Vision Title */}
                 Vision
             </div>
-            <div className="font-satoshi font-thin text-lg ">
+            <div className="font-satoshi font-thin text-lg opacity-68">
                 {/* Vision Desc */}
                 Transformasi HMTC sebagai Pionir Utama Elemen Teknik Informatika Demi Mewujudkan Organisasi Yang Berdampak dan Berkualitas.
             </div>
@@ -18,7 +18,7 @@ const VisionMission = () => {
                 {/* Mission Title */}
                 Mission
             </div>
-            <div className="font-satoshi font-thin text-lg flex flex-col gap-2">
+            <div className="font-satoshi font-thin text-lg flex flex-col gap-2 opacity-68">
                 {/* Mission Desc */}
                 <div>
                     Mengimplementasi program transformasi yang inovatif untuk meningkatkan daya saing dan memperbaiki kondisi HMTC sebagai organisasi di Teknik Informatika.                
