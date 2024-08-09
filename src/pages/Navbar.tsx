@@ -17,20 +17,20 @@ const navbar = () => {
     </li>
 </ul>
 
-        <ul className="flex gap-8 items-center text-hitam">
-            <li className="font-satoshi text-base">
+        <ul className="flex gap-8 items-center text-base text-hitam">
+            <li className="hover:bg-gradient-to-r from-[#00AAE7] to-[#0076C0] inline-block hover:text-transparent bg-clip-text">
                 About Us
             </li>
-            <li className="font-satoshi text-base">
+            <li className="hover:bg-gradient-to-r from-[#00AAE7] to-[#0076C0] inline-block hover:text-transparent bg-clip-text">
                 History of HMTC
             </li>
-            <li className="font-satoshi text-base">
+            <li className="hover:bg-gradient-to-r from-[#00AAE7] to-[#0076C0] inline-block hover:text-transparent bg-clip-text">
                 Gallery
             </li>
-            <li className="font-satoshi text-base">
+            <li className="hover:bg-gradient-to-r from-[#00AAE7] to-[#0076C0] inline-block hover:text-transparent bg-clip-text">
                 Akademik
             </li>
-            <li className="font-satoshi text-base">
+            <li className="hover:bg-gradient-to-r from-[#00AAE7] to-[#0076C0] inline-block hover:text-transparent bg-clip-text">
                 Blog
             </li>
         </ul>
