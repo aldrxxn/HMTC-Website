@@ -7,7 +7,7 @@ const Hero = () => {
     <>
     <div className="px-24 justify-center flex flex-col gap-12  overflow-x-hidden" style={{ height: 'calc(100vh - 80px)' }}>
       <div>
-        <div className="font-adelphe font-bold text-7xl text-hitam">
+        <div className="font-adelphe font-bold text-6xl text-hitam">
             {/* Selamat datang di <br/>Himpunan Mahasiswa <br/>Teknik Computer-Informatika. */}
             <div>
             Selamat datang di

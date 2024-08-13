@@ -8,6 +8,7 @@ import AboutUs from './pages/AboutUs.tsx'
 import Transition from './pages/Transition.tsx'
 import VisionMission from './pages/VisionMission.tsx'
 import Goal from './pages/Goal.tsx'
+import History from './pages/History.tsx'
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
@@ -18,5 +19,6 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
     <Transition/>
     <VisionMission/>
     <Goal/>
+    <History/>
     </React.StrictMode>,
 )
